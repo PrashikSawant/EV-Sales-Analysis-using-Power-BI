@@ -20,8 +20,6 @@ This project explores **electric vehicle (EV) sales trends** in India from **202
 
 ## 🚀 Tools & Technologies Used  
 - **Power BI** → Interactive dashboards and visualizations.  
-- **Python (Pandas, Matplotlib, Seaborn)** → Data preprocessing & exploratory analysis.  
-- **SQL** → Data extraction and manipulation.  
 
 ## 📈 How to Use  
 1. Open **`Electric vehicle.pbix`** in Power BI to explore interactive visualizations.  
