@@ -5,7 +5,9 @@ This project explores **electric vehicle (EV) sales trends** in India from **202
 
 ## 📊 Key Insights  
 
-## 1️⃣ Top & Bottom Manufacturers: Identified the top 3 and bottom 3 manufacturers based on total EV sales.<br>
+## 1️⃣ Top & Bottom Manufacturers: 
+
+Identified the top 3 and bottom 3 manufacturers based on total EV sales.
 
 Top 3 EV Manufacturers (based on total sales):
 1. OLA ELECTRIC – 489,473 units sold
