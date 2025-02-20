@@ -37,4 +37,4 @@ This project explores **electric vehicle (EV) sales trends** in India from **202
 Have suggestions? Feel free to **fork** this repository and propose enhancements!  
 
 ## 📬 Contact  
-For any questions, connect on **[LinkedIn](www.linkedin.com/in/prashik-sawant-ds)** or reach out via **Email**.  
+For any questions, connect on **[LinkedIn](www.linkedin.com/in/prashik-sawant-ds)** or reach out via **Email -** prashiksawant47@gmail.com.  
