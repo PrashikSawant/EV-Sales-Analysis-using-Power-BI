@@ -36,11 +36,11 @@ Bottom 3 States with Lowest EV Adoption:
 ## 3️⃣ Quarterly Sales Trends
 I'll analyze sales trends for the top 5 EV makers from 2022 to 2024. ​​
 
-Quarterly Sales Trends (2022-2024)
-Highest growth observed in Q4 2024, where OLA ELECTRIC sold 110,872 units—the highest among all manufacturers.
-HERO ELECTRIC's sales declined significantly in 2024, dropping from 16,609 in Q1 2023 to just 1,052 in Q4 2024.
-TVS and ATHER showed steady growth, with TVS reaching 55,742 units in Q4 2024.
-AMPERE had fluctuating sales, peaking at 27,151 in Q3 2023 but declining in 2024.
+**Quarterly Sales Trends (2022-2024)**
+- Highest growth observed in Q4 2024, where OLA ELECTRIC sold 110,872 units—the highest among all manufacturers.
+- HERO ELECTRIC's sales declined significantly in 2024, dropping from 16,609 in Q1 2023 to just 1,052 in Q4 2024.
+- TVS and ATHER showed steady growth, with TVS reaching 55,742 units in Q4 2024.
+- AMPERE had fluctuating sales, peaking at 27,151 in Q3 2023 but declining in 2024.
 
 
 ## 4️⃣ Growth Rate (CAGR) for Top States & Manufacturers
