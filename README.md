@@ -34,7 +34,7 @@ Bottom 3 States with Lowest EV Adoption:
 
 
 ## 3️⃣ Quarterly Sales Trends
-I'll analyze sales trends for the top 5 EV makers from 2022 to 2024. ​​
+Analyzed sales trends for the top 5 EV makers from 2022 to 2024. ​​
 
 **Quarterly Sales Trends (2022-2024)**
 - Highest growth observed in Q4 2024, where OLA ELECTRIC sold 110,872 units—the highest among all manufacturers.
